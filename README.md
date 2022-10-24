@@ -10,6 +10,8 @@
 
 ![Блок-схема](blok_shema.jpg)
 
+[Блок схема](https://dropmefiles.com/WFdDn)
+
 ``` c#
 Console.WriteLine("Введите длинну массива ");
 int size = Convert.ToInt32(Console.ReadLine());
